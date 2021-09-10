@@ -1,0 +1,11 @@
+[
+	{
+		"question": "Ibukota Indonesia adalah?",
+		"answer": [
+			{ "answerText": "Tangerang", "isCorrect": false },
+			{ "answerText": "Bogor", "isCorrect": false },
+			{ "answerText": "Bekasi", "isCorrect": false },
+			{ "answerText": "Jakarta", "isCorrect": true }
+		]
+	}
+]
